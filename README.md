@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisbytheway
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: luis.flores2@outlook.com
 
 <!---
